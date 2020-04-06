@@ -15,3 +15,7 @@ Examination of classifier behavior in Tinaroo, including visualization of low co
 [Kirrama](https://github.com/bwlambert/FloweringPolygons/blob/master/LandSat8_Kirrama.ipynb)
 ---
 Examination of classifier behavior in Kirrama, including visualization of low confidence pixels.  Demonstrates that an optimal nLL certainty cutoff can be identified which gives 98% Eucalyptus classification.
+
+[Kirrama Full](https://github.com/bwlambert/FloweringPolygons/blob/master/LandSat8_Kirrama-Full.ipynb)
+---
+As above, with some additional/supplemental plots.
